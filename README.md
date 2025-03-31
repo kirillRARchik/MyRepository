@@ -1,2 +1,1 @@
-# eto_slozhno
 # MyRepository
